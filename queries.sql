@@ -34,3 +34,4 @@ WHERE `level` = "magistrale";
 -- Da quanti dipartimenti è composta l'università?
 SELECT COUNT(`id`)
 FROM `departments`;
+
